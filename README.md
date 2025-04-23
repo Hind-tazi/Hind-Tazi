@@ -1,5 +1,5 @@
-##  👋 <h1>Bienvenue sur mon portfoliocybertsecurite !</h1>
-<p>J em appelle Hind etudiante passionee de cybersecurite et cybertcriminalite </>
+##  👋 <h1>Bienvenue sur mon portfolio cybertsecurite !</h1>
+<p>Je m appelle Hind etudiante passionee de cybersecurite et cybertcriminalite </>
 
 <!--
 **Hind-tazi/Hind-Tazi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
